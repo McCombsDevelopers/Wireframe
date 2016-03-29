@@ -1,34 +1,31 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *CRUNCH*
 
-**Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-Time spent: **X** hours spent in total
+**CRUNCH** is a Food and Restaurant app using the [The YELP API](http://docs.themoviedb.apiary.io/#).
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-- [ ] User can view a list of movies currently playing in theaters from The Movie Database.
-- [ ] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [ ] User sees a loading state while waiting for the movies API.
-- [ ] User can pull to refresh the movie list.
+- [ ] User can sign up using email
+- [ ] User can sign up using Twitter/Facebook 
+- [ ] User can log in and log out of his or her account
+- [ ] User can search for a type of food / restaurant of his or her liking
+
+
+The following optional features are implemented:
+
 
 The following **optional** features are implemented:
 
-- [ ] User sees an error message when there's a networking error.
-- [ ] Movies are displayed using a CollectionView instead of a TableView.
-- [ ] User can search for a movie.
-- [ ] All images fade in as they are loading.
-- [ ] Customize the UI.
+- [ ] User can create a bio on their page
+- [ ] User can use a map to navigate to the restaurant
+
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
 
 ## Video Walkthrough 
 
@@ -44,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [McCombs Developers]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

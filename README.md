@@ -1,26 +1,64 @@
-#ReadMe
+# Project 1 - *Name of App Here*
 
-User Stories
+**Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-The following required functionality is completed: 
+Time spent: **X** hours spent in total
 
-[ ] User can sign up using email
-[ ] User can sign up using Twitter/Facebook to create a new account using Parse authentication
-[ ] User can log in and log out of his or her account
-[ ] User can choose a type of food of their liking and choose a restaurant to match that
-[ ] User can navigate to that restaurant via a map 
+## User Stories
 
+The following **required** functionality is complete:
 
-The following optional features are implemented:
+- [ ] User can view a list of movies currently playing in theaters from The Movie Database.
+- [ ] Poster images are loaded using the UIImageView category in the AFNetworking library.
+- [ ] User sees a loading state while waiting for the movies API.
+- [ ] User can pull to refresh the movie list.
 
- [] Show the username and creation time for each post
- [] After the user submits a new post, show a progress HUD while the post is being uploaded to Parse.
- 
- User Profiles:
- [] Allow the logged in user to add a profile photo
- [] Display the profile photo 
- [] User can create a short bio 
+The following **optional** features are implemented:
 
+- [ ] User sees an error message when there's a networking error.
+- [ ] Movies are displayed using a CollectionView instead of a TableView.
+- [ ] User can search for a movie.
+- [ ] All images fade in as they are loading.
+- [ ] Customize the UI.
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+1. 
+2. 
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+    
+    
 Video Walkthrough of the App
 
 # Wireframe

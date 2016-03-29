@@ -4,11 +4,11 @@ User Stories
 
 The following required functionality is completed: 
 
-[] User can sign up using email
-[] User can sign up using Twitter/Facebook to create a new account using Parse authentication
-[] User can log in and log out of his or her account
-[] User can choose a type of food of their liking and choose a restaurant to match that
-[] User can navigate to that restaurant via a map 
+[ ] User can sign up using email
+[ ] User can sign up using Twitter/Facebook to create a new account using Parse authentication
+[ ] User can log in and log out of his or her account
+[ ] User can choose a type of food of their liking and choose a restaurant to match that
+[ ] User can navigate to that restaurant via a map 
 
 
 The following optional features are implemented:
